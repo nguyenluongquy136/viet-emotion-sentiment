@@ -2,11 +2,9 @@
 
 API và demo web phân tích cảm xúc tiếng Việt. Xây dựng với FastAPI, tối ưu cho inference nhanh, hỗ trợ nhiều mô hình (Transformers, LSTM, GRU) và pipeline tiền xử lý tiếng Việt đầy đủ.
 
-— Demo trực tuyến: https://nguyenhoaday-vnsentiment.hf.space/
+— Demo trực tuyến: https://huggingface.co/spaces/nnguyenluongquy136/VNsentiment
 
-— Hugging Face Space: https://huggingface.co/spaces/nguyenhoaday/VNsentiment
-
-— Bộ sưu tập mô hình: https://huggingface.co/collections/nguyenhoaday/vietnamese-sentiment-analysis-68b7b4cf792b7edfe188208e
+— Hugging Face Space: https://huggingface.co/spaces/nnguyenluongquy136/VNsentiment
 
 Lưu ý: Notebook/script huấn luyện nằm trong thư mục `train_models/`.
 
