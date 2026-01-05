@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+torch
+pyvi
+numpy
+huggingface_hub
+pydantic_settings
+transformers
+python-multipart
